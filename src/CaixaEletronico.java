@@ -7,6 +7,7 @@ public class CaixaEletronico {
      * @param args
      */
     public static void main(String[] args) {
+        System.out.println("Bem vindo ao Caixa Eletronico");
         Scanner scanner = new Scanner(System.in);
         int escolha;
 
